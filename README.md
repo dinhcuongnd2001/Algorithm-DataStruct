@@ -1,2 +1,1 @@
-# Algorithm-DataStruct
-C-C++
+copyright bt DNC
