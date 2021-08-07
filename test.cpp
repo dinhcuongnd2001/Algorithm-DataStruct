@@ -15,7 +15,7 @@ void solve(){
 				res[i][j] = max(res[i][j-a[i]] + a[i] , res[i-1][j]);
 			}
 			else{
-				res[i][j] = res[i][j-1] 
+				res[i][j] = res[i][j-1] ;
 			}
 		}
 	}
