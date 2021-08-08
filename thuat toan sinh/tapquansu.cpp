@@ -3,7 +3,9 @@ idea :
     sinh to hop 
     so sanh to hop truoc voi to hop sau
     so phan tu trung chinh la so thanh vien duoc nghi 
+    8/8/2021
 */
+
 #include<bits/stdc++.h>
 
 using namespace std ;
